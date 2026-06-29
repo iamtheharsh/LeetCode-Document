@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
