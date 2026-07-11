@@ -118,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
