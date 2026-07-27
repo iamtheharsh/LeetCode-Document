@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0177-nth-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0550-game-play-analysis-iv) |
 | [1070-product-sales-analysis-iii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1070-product-sales-analysis-iii) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Sliding Window
 |  |
 | ------- |
