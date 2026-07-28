@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2097-valid-arrangement-of-pairs) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Ordered Set
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1288-remove-covered-intervals) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
