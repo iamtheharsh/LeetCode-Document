@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
+| [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
