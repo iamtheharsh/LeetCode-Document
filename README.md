@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0550-game-play-analysis-iv) |
 | [0626-exchange-seats](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1070-product-sales-analysis-iii) |
+| [1321-restaurant-growth](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1321-restaurant-growth) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Sliding Window
 |  |
