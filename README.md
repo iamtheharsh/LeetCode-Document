@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0550-game-play-analysis-iv) |
+| [0585-investments-in-2016](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1070-product-sales-analysis-iii) |
