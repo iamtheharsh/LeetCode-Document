@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0790-domino-and-tromino-tiling](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0790-domino-and-tromino-tiling) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
