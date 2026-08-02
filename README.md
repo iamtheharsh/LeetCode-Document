@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0133-clone-graph) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
+| [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
+| [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
 | [1105-filling-bookcase-shelves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1105-filling-bookcase-shelves) |
 | [1288-remove-covered-intervals](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
