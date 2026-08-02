@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
