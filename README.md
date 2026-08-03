@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0135-candy) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
