@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2097-valid-arrangement-of-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2097-valid-arrangement-of-pairs) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
