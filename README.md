@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
+| [0983-minimum-cost-for-tickets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0983-minimum-cost-for-tickets) |
 | [1105-filling-bookcase-shelves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1105-filling-bookcase-shelves) |
 | [1288-remove-covered-intervals](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
+| [0983-minimum-cost-for-tickets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0983-minimum-cost-for-tickets) |
 | [1105-filling-bookcase-shelves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1105-filling-bookcase-shelves) |
 | [1220-count-vowels-permutation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1220-count-vowels-permutation) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
