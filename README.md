@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
+| [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
+| [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
