@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2097-valid-arrangement-of-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2097-valid-arrangement-of-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2104-sum-of-subarray-ranges) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 ## Concurrency
 |  |
 | ------- |
@@ -394,4 +399,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
