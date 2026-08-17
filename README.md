@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
+| [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
 | [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
+| [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
+| [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
 | [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 ## Concurrency
 |  |
