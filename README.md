@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
 | [0983-minimum-cost-for-tickets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0983-minimum-cost-for-tickets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1105-filling-bookcase-shelves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1105-filling-bookcase-shelves) |
 | [1288-remove-covered-intervals](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1386-cinema-seat-allocation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
@@ -437,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
