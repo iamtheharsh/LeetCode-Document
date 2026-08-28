@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
 <!---LeetCode Topics End-->
