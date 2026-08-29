@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-count-vowels-permutation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1220-count-vowels-permutation) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2097-valid-arrangement-of-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2097-valid-arrangement-of-pairs) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -468,4 +471,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
