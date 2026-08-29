@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
