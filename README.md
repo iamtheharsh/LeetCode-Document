@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0983-minimum-cost-for-tickets) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1105-filling-bookcase-shelves](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1105-filling-bookcase-shelves) |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 | [1288-remove-covered-intervals](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0004-median-of-two-sorted-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 | [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -454,5 +458,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 | [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1157-online-majority-element-in-subarray) |
 <!---LeetCode Topics End-->
