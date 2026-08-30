@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0133-clone-graph) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0904-fruit-into-baskets) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0790-domino-and-tromino-tiling](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0790-domino-and-tromino-tiling) |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0879-profitable-schemes) |
 | [0983-minimum-cost-for-tickets](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0983-minimum-cost-for-tickets) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1386-cinema-seat-allocation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -439,10 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Meet in the Middle
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Longest Increasing Subsequence
 |  |
