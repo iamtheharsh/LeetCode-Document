@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1627-graph-connectivity-with-threshold) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
+| [1696-jump-game-vi](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1696-jump-game-vi) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
 | [1675-minimize-deviation-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1675-minimize-deviation-in-array) |
+| [1696-jump-game-vi](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1696-jump-game-vi) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1478-allocate-mailboxes) |
 | [1563-stone-game-v](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1696-jump-game-vi](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
@@ -423,11 +426,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1696-jump-game-vi) |
 ## Recursion
 |  |
 | ------- |
