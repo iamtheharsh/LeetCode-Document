@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3646-next-special-palindrome-number](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3646-next-special-palindrome-number) |
 ## Sweep Line
 |  |
 | ------- |
@@ -507,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Backtracking
+|  |
+| ------- |
+| [3646-next-special-palindrome-number](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3646-next-special-palindrome-number) |
 <!---LeetCode Topics End-->
