@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0115-distinct-subsequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
