@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3686-number-of-stable-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3686-number-of-stable-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2029-stone-game-ix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2029-stone-game-ix) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3345-smallest-divisible-digit-product-i) |
