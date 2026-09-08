@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0115-distinct-subsequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
 | [2104-sum-of-subarray-ranges](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
