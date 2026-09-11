@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -533,4 +534,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3646-next-special-palindrome-number](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3646-next-special-palindrome-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
