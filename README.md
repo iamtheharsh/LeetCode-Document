@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
+| [0134-gas-station](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0857-minimum-cost-to-hire-k-workers) |
