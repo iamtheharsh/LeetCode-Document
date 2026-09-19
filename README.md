@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3904-smallest-stable-index-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3904-smallest-stable-index-ii) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3686-number-of-stable-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3686-number-of-stable-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
