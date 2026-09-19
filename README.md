@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2611-mice-and-cheese](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2611-mice-and-cheese) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3646-next-special-palindrome-number](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3646-next-special-palindrome-number) |
