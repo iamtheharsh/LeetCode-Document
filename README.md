@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3187-peaks-in-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2560-house-robber-iv](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2560-house-robber-iv) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
