@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
+| [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 | [0564-find-the-closest-palindrome](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0564-find-the-closest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
 | [0940-distinct-subsequences-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0940-distinct-subsequences-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 | [0790-domino-and-tromino-tiling](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0790-domino-and-tromino-tiling) |
 | [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 ## Math
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0316-remove-duplicate-letters) |
+| [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
