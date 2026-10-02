@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0174-dungeon-game) |
+| [0312-burst-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0174-dungeon-game) |
+| [0312-burst-balloons](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0354-russian-doll-envelopes) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
