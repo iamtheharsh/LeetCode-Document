@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Biconnected Component
 |  |
