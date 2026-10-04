@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0720-longest-word-in-dictionary](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0720-longest-word-in-dictionary) |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 | [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0790-domino-and-tromino-tiling) |
 | [0805-split-array-with-same-average](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iamtheharsh/LeetCode-Document/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0488-zuma-game) |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 ## Math
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 | [3646-next-special-palindrome-number](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3646-next-special-palindrome-number) |
 ## Rolling Hash
 |  |
@@ -602,4 +608,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1192-critical-connections-in-a-network) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/iamtheharsh/LeetCode-Document/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
