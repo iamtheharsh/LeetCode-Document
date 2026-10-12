@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1321-restaurant-growth) |
 | [1484-group-sold-products-by-the-date](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1484-group-sold-products-by-the-date) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/iamtheharsh/LeetCode-Document/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [3554-find-category-recommendation-pairs](https://github.com/iamtheharsh/LeetCode-Document/tree/master/3554-find-category-recommendation-pairs) |
 ## Sliding Window
 |  |
 | ------- |
